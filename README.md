@@ -1,2 +1,2 @@
-# port-scanner
-A demonstration of how you might build a Sport Scanner for KS4 and KS5 pupils.
+# Port Scanner
+A demonstration of how you might build a Port Scanner for KS4 and KS5 pupils.
