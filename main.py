@@ -2,7 +2,6 @@
 
 #Python Libraries used in our port scanner
 import socket
-import sys
 from datetime import datetime
 
 #Local Subs
